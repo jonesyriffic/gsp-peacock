@@ -20,6 +20,8 @@ status-website:
       href: /
     - title: SST
       href: https://jonesyriffic.github.io/gsp-sst/
+    - title: SMX
+      href: https://jonesyriffic.github.io/gsp-smx/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
