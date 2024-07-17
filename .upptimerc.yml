@@ -11,7 +11,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /gsp-peacock
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: GSP Customer Management Uptime
+  name: GSP Help Uptime
   introTitle: Peacock Uptime
   navbar:
     - title: Home
