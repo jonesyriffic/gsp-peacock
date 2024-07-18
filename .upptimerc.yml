@@ -3,8 +3,12 @@ owner: jonesyriffic # Your GitHub organization or username, where this repositor
 repo: gsp-peacock # The name of this repository
 
 sites:
-  - name: Peacock
+  - name: Help
     url: https://www.peacocktv.com/help
+  - name: Get in Touch
+    url: https://www.peacocktv.com/help/get-in-touch
+  - name: Account Finder
+    url: https://www.peacocktv.com/help/account-finder
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
