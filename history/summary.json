@@ -4,19 +4,19 @@
     "url": "https://www.peacocktv.com/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.peacocktv.com.ico",
     "slug": "help",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 685,
-    "timeDay": 2787,
-    "timeWeek": 1171,
-    "timeMonth": 735,
-    "timeYear": 685,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 693,
+    "timeDay": 2194,
+    "timeWeek": 1153,
+    "timeMonth": 743,
+    "timeYear": 693,
     "dailyMinutesDown": {
-      "2024-08-23": 0
+      "2024-08-23": 7
     }
   },
   {
