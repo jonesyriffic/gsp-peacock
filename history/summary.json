@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.peacocktv.com.ico",
     "slug": "help",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 693,
-    "timeDay": 2194,
-    "timeWeek": 1153,
-    "timeMonth": 743,
-    "timeYear": 693,
-    "dailyMinutesDown": {
-      "2024-08-23": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 714,
+    "timeDay": 426,
+    "timeWeek": 1300,
+    "timeMonth": 780,
+    "timeYear": 714,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Get in Touch",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 387,
-    "timeDay": 256,
-    "timeWeek": 530,
-    "timeMonth": 409,
-    "timeYear": 387,
+    "time": 411,
+    "timeDay": 844,
+    "timeWeek": 671,
+    "timeMonth": 448,
+    "timeYear": 411,
     "dailyMinutesDown": {}
   }
 ]
