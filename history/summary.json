@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 713,
-    "timeDay": 659,
+    "time": 709,
+    "timeDay": 545,
     "timeWeek": 1329,
-    "timeMonth": 787,
-    "timeYear": 713,
+    "timeMonth": 790,
+    "timeYear": 709,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.peacocktv.com.ico",
     "slug": "get-in-touch",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-08-26": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Account Finder",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 446,
-    "timeWeek": 626,
-    "timeMonth": 435,
-    "timeYear": 412,
+    "time": 402,
+    "timeDay": 22,
+    "timeWeek": 564,
+    "timeMonth": 406,
+    "timeYear": 402,
     "dailyMinutesDown": {}
   }
 ]
