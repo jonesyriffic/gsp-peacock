@@ -4,10 +4,10 @@
     "url": "https://www.peacocktv.com/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.peacocktv.com.ico",
     "slug": "help",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 674,
@@ -15,7 +15,9 @@
     "timeWeek": 689,
     "timeMonth": 603,
     "timeYear": 674,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-12": 1
+    }
   },
   {
     "name": "Get in Touch",
