@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 236,
-    "timeWeek": 353,
-    "timeMonth": 515,
-    "timeYear": 621,
+    "time": 624,
+    "timeDay": 1179,
+    "timeWeek": 490,
+    "timeMonth": 508,
+    "timeYear": 624,
     "dailyMinutesDown": {}
   },
   {
@@ -42,17 +42,15 @@
     "slug": "account-finder",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 426,
-    "timeDay": 403,
-    "timeWeek": 414,
-    "timeMonth": 404,
-    "timeYear": 426,
-    "dailyMinutesDown": {
-      "2024-12-16": 9
-    }
+    "time": 424,
+    "timeDay": 209,
+    "timeWeek": 352,
+    "timeMonth": 395,
+    "timeYear": 424,
+    "dailyMinutesDown": {}
   }
 ]
