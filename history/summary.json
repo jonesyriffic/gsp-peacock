@@ -4,19 +4,19 @@
     "url": "https://www.peacocktv.com/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.peacocktv.com.ico",
     "slug": "help",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 403,
-    "timeWeek": 824,
-    "timeMonth": 993,
-    "timeYear": 703,
+    "time": 708,
+    "timeDay": 741,
+    "timeWeek": 940,
+    "timeMonth": 1024,
+    "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-04-08": 0
+      "2025-04-08": 7
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://www.peacocktv.com/help/get-in-touch",
     "icon": "https://icons.duckduckgo.com/ip3/www.peacocktv.com.ico",
     "slug": "get-in-touch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-08": 0
+      "2025-04-08": 7
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://www.peacocktv.com/help/account-finder",
     "icon": "https://icons.duckduckgo.com/ip3/www.peacocktv.com.ico",
     "slug": "account-finder",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 545,
-    "timeDay": 76,
-    "timeWeek": 462,
-    "timeMonth": 962,
-    "timeYear": 545,
+    "time": 549,
+    "timeDay": 230,
+    "timeWeek": 497,
+    "timeMonth": 959,
+    "timeYear": 549,
     "dailyMinutesDown": {
-      "2025-04-08": 0
+      "2025-04-08": 7
     }
   }
 ]
