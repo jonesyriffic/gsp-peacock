@@ -4,19 +4,19 @@
     "url": "https://www.peacocktv.com/help",
     "icon": "https://icons.duckduckgo.com/ip3/www.peacocktv.com.ico",
     "slug": "help",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 667,
-    "timeWeek": 886,
-    "timeMonth": 1004,
-    "timeYear": 707,
+    "time": 706,
+    "timeDay": 623,
+    "timeWeek": 846,
+    "timeMonth": 987,
+    "timeYear": 706,
     "dailyMinutesDown": {
-      "2025-04-08": 0
+      "2025-04-08": 14
     }
   },
   {
@@ -24,11 +24,11 @@
     "url": "https://www.peacocktv.com/help/get-in-touch",
     "icon": "https://icons.duckduckgo.com/ip3/www.peacocktv.com.ico",
     "slug": "get-in-touch",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
@@ -36,7 +36,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-08": 0
+      "2025-04-08": 14
     }
   },
   {
@@ -46,17 +46,17 @@
     "slug": "account-finder",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 547,
+    "time": 546,
     "timeDay": 230,
-    "timeWeek": 497,
-    "timeMonth": 959,
-    "timeYear": 547,
+    "timeWeek": 456,
+    "timeMonth": 922,
+    "timeYear": 546,
     "dailyMinutesDown": {
-      "2025-04-08": 0
+      "2025-04-08": 14
     }
   }
 ]
