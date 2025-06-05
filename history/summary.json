@@ -40,17 +40,19 @@
     "url": "https://www.peacocktv.com/help/account-finder",
     "icon": "https://icons.duckduckgo.com/ip3/www.peacocktv.com.ico",
     "slug": "account-finder",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 497,
-    "timeDay": 13,
-    "timeWeek": 228,
-    "timeMonth": 210,
-    "timeYear": 497,
-    "dailyMinutesDown": {}
+    "time": 516,
+    "timeDay": 3542,
+    "timeWeek": 1083,
+    "timeMonth": 425,
+    "timeYear": 516,
+    "dailyMinutesDown": {
+      "2025-06-05": 0
+    }
   }
 ]
